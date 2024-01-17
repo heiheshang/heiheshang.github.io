@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Доставка из Китая - Складофф</title>
+		<link><![CDATA[https://xn--80aiqern0aa.xn--p1ai/index.html]]></link>
+		<description>Доставка посылок из интернет магазинов Китая. Быстрая доставка из Китая посылок.</description>
+		<language>ru</language>
+		<pubDate>Wed, 17 Jan 2024 05:12:57 +0000</pubDate>
+
+		<item turbo="true">
+			<guid isPermaLink="false">3654395469</guid>
+			<title>Доставка из Китая - Складофф</title>
+			<link>https://xn--80aiqern0aa.xn--p1ai/index.html</link>
+			<turbo:content>
+                <![CDATA[
+						 <header>
+						 	<h1>Складофф.рф</h1>
+							<h2>Посылки из Китая</h2>
+							<figure>
+								<img src="https://xn--80aiqern0aa.xn--p1ai/images/background-main.png">
+							</figure>
+							<menu>
+								<a href="https://складофф.рф/index.html#how-work">Как это работает</a>
+								<a href="https://складофф.рф/index.html#">Цены</a>
+								<a href="https://t.me/Skladoffbot">Помощь</a>
+							</menu>
+						</header>
+						<p>
+						пересылка товаров <br />
+						через склад в Китае
+						</p>
+						<p>из магазинов <span>не</span> отправляющих в Россию</p>
+                ]]>
+            </turbo:content>
+			<dc:creator>@Skladoffbot</dc:creator>
+			<category>Новости сайта</category>
+			<description>Доставка посылок из интернет магазинов Китая. Быстрая доставка из Китая посылок.</description>
+			<pubDate>Wed, 17 Jan 2024 07:12:56 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
