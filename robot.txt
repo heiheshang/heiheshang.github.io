@@ -1,0 +1,5 @@
+Sitemap: https://складофф.рф/sitemap.xml
+User-agent: *
+Allow: https://складофф.рф/index.html
+Allow: https://складофф.рф/feed.rss
+Allow: https://складофф.рф/sitemap.xml
